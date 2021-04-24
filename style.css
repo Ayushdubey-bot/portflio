@@ -1,0 +1,26 @@
+Body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+}
+
+p {
+    Font-size: 30px;
+    font-family: Italic;
+}
+
+h1 {
+    size: 60px;
+    Color: Red;
+}
+
+Img {
+    border-radius: 50%;
+    width: 100px;
+    height: 150px;
+}
+
+.line {
+    height: 6px;
+    background-color: Black;
+    width: 50px;
+}
